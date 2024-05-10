@@ -1,0 +1,46 @@
+n, compare the luminosity of the
+colour coming through the red slit with that coming through the green
+slit, and then get the green-blind to do the same, it is evident that
+any excess in the luminosity as measured by myself over that measured
+by the green-blind must be due to the green sensation, and we can also
+see how much red and violet make up his white. We shall not be far
+wrong, then, in apportioning the constituents of the white thus found
+between the green and the red; the violet being, for the time being,
+negligible. We must subtract the red sensation from the green _colour_
+curve and add it to the red colour curve: the two curves will then be
+very closely the curves of the _red and green sensations_. By causing
+the green-blind to make mixtures of red and violet for all the colours
+of their spectrum, we can arrive at what must be finally taken away or
+given to these curves, though such addition or subtraction of violet
+will be small when the luminosities are considered. The accompanying
+figure (Fig. 22) gives an idea of the shape and general features of
+these curves. It may be remarked that we can check the general accuracy
+of the measures of the colour mixtures by calculating or measuring the
+areas of the two colour curves, the red and the green. If accurate,
+they should bear the same ratio that the _luminosities_ of the two
+colours bear to each other (when mixed with a little violet, which
+is practically negligible) to form white light. So far, then, we can
+utilize the luminosity methods to calculate and to trace the sensation
+curves for the normal eye. It will not escape your notice that the
+maximum heights of these two component curves are nowhere near the
+parts of the spectrum where the colour is the purest. Another check to
+these curves may also be made by taking the difference in the ordinates
+of the luminosity curves of the colour blind and the normal eyed. Too
+much stress must not, however, for the moment, be laid on this, as
+this method depends on the absolute correctness of the scale of the
+ordinates in the curves. It must be recollected that to the former
+white light is deprived of at least one constituent sensation which is
+perceived by normal eyes. This, in all probability, renders the white
+less luminous to them than those possessing normal vision, so that the
+comparisons of luminosities are referred to different standards.
+
+It may seem a very simple matter to ascertain the correct scale, but it
+is not, except by the extinction method, which will be described later.
+At one time General Festing and myself tried to obtain a comparison
+by finding the limiting illumination at which a book could be read.
+We got results, but for the purpose in question the values are not
+conclusive. What we really were measuring was the _acuteness of vision_
+in different coloured lights. As a good deal depends upon the optical
+perfection of the eyes under examination, besides the illumination,
+we must be on our guard, even if there were nothing else against the
+method, against 

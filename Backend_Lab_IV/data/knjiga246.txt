@@ -1,0 +1,58 @@
+myl-acetate
+lamp (·8 of a candle), we find that the numbers are as follows:--
+
+              Reduction in
+               Millionths.
+
+  B              300
+  C              225
+  D               48
+  E                3·3
+  F                 ·9
+  Blue Lithium     1·1
+  G                1·1
+
+These numbers are remarkable, and we may enforce what they mean in
+this way. The energy of radiation, and of light also when of ordinary
+luminosity, varies inversely as the square of the distance from an
+incandescent body when of small dimensions. But from the above it seems
+that a white screen receiving the rays from an amyl-acetate lamp in an
+otherwise perfectly dark place, and having a colour which stimulates
+the red sensation alone, would be invisible at 58 feet distance, for
+there would not be enough energy transmitted to stimulate the red
+perceiving apparatus sufficiently to give the sensation of light. If
+it were an orange light, such as sodium, of the same luminosity, we
+should have to move it from the screen 142 feet before the same result
+was attained. With the green light at E, the distance would be 550
+feet, and with the violet the distance would be increased to 1000 feet.
+The reduction in intensity of white light, which, when of ordinary
+brightness, is warm, would make it colder, for the red would disappear,
+and finally the residue of light, just before extinction, would become
+a cold grey, due to the absence of all colour. The changes in hue that
+would occur are variable, the variation being due to the loss of colour
+of the different rays for different amounts of reduction, and then
+their final extinction. We can place two patches of white light on the
+screen, and gradually reduce one in intensity, keeping the other of its
+original value. No one would expect that the two would be dissimilar
+in hue, as they appear to be when the former is moderately near the
+extinction value. If we wish to see this perfectly, we should use an
+extinction box and view it away from the surroundings, which must be
+more or less slightly illuminated.
+
+It has already been stated that the persistency curve for persons who
+have normal colour vision is closely the same as that recorded for
+those who are of the monochromatic type. As this is so, we must expect
+to find that the persistency curve of these last is the same as their
+luminosity curve. We put this to the test of experiment and found that
+our reasoning was correct, for the persistency curve could be almost
+exactly fitted to it. (See table, pages 217 and 222.) The slight
+difference between them can be credited to the fact that the whole eye
+may have been brought into use during the extinction observations, the
+centre of the eye not being exclusively used. The Figure 31 shows
+both the extinction and the persistency curves, and also the curve of
+luminosity for the normal eye.
+
+[Illustration: FIG. 31.]
+
+The former were derived from a case P. sent for examination. P. and
+Q. are brothers, each of whom possesses but one colour sensation, a

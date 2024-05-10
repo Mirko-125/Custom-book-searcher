@@ -1,0 +1,54 @@
+nsation most
+complete. Mr. Nettleship, who furnished the case, has kindly added the
+following remarks on the case:--
+
+His acuteness of vision was 6/36 with the right eye and 6/60 with the
+left. He smoked half-an-ounce of “shag” daily and drank about four
+pints of beer. His sight had been failing for about two months. As is
+common in early stages of this disease the ophthalmoscope revealed no
+decided changes at the optic discs.
+
+He passed the test of the Holmgren wools satisfactorily, proving that
+the usual vision was normal for colour, but failed at once with the
+pellet test.
+
+[Illustration: FIG. 36.]
+
+The objects in view were to test his perception of the spectrum
+colours, and then the extent of his retinal field for colour. This
+last is not recorded here. The spectrum colours were reduced to
+uniform luminosity between λ 4600 and λ 6600. Diaphragms containing
+holes of different sizes were placed in front of the last prism, and
+thus a round spot of monochromatic light of the same luminosity was
+produced upon the screen when a slit was passed through the spectrum.
+From the red end to λ 5270 he called the whole of the colours white,
+and from that point he began to see blue, called the colours bluish
+and blue. When the full illumination for all the colours was used,
+the same results were obtained. From this examination it would appear
+that he was totally deprived of the sensation of any colour except of
+blue. A subsequent examination of his perception of the luminosity of
+different rays, however, has to be taken into account, for in the first
+examination he had no light of pure white with which to compare the
+colours. In the next experiments, a strip of white light was placed in
+juxtaposition to the colour, and the results were slightly different.
+The table below gives his luminosity measures (Fig. 36). Col. I. is
+the empyric scale number, II. is the wave-length, III. the luminosity
+of the colour to the normal eye, IV. the luminosity to X., and V. the
+ratios of III. to IV.
+
+In the diagram, his luminosity curve X. is shown, its area being 1400
+against 1650 for the normal eye. His central perception of light, as
+arrived at by the extinction method, was only two-thirds of that of
+the normal eye; hence his area of luminosity should be 1100. As it is
+1400, the ordinates of the above curve should be multiplied by 0·8, to
+compare with that of the normal eye.
+
+  -----+-------+----------+----------+-----+--------------------+----------------
+  I.   | II.   | III.     |  IV.     |  V. |                    | Spectrum
+  -----+-------+----------+----------+-----+                    | colour to
+  Scale|Wave-  |Luminosity|Luminosity| IV. |  Colours to X.     | normal
+  No.  |length.|to the    |to X.     | --  |                    | eye.
+       |       |normal eye|          | III.|                    |
+  -----+-------+----------+----------+-----+--------------------+----------------
+  60   |  6730 |    7·3   |     0    | 0   |Sees only the white |Red.
+       |       |          |  

@@ -1,0 +1,53 @@
+h apertures which can be opened or closed whilst rotating, is
+placed, and the illumination of either beam can be altered at will. To
+obtain a large spectrum on the screen E, all that is necessary is to
+interpose a lens of fairly short focus in front of L₄, when a spectrum
+of great purity and brightness can be formed.
+
+If it be required to measure the width of the slits S₂ (which we shall
+see further on is often necessary), a small lens of short focal length
+placed behind L₄ and near the slit will cast a magnified image on E,
+and by means of a scale placed there, the widths of each slit, if there
+are more than one, can be read off on the scale by bringing them
+successively into the same colour.
+
+[Illustration: FIG. 5.]
+
+Originally the comparison light was a candle, and it answered its
+purpose fairly well, and for obtaining absolute measures is convenient
+at the present time. Fig. 5 will show its arrangement, but as both the
+candle and the electric light may vary independently of each other, it
+will be seen that for merely the comparison of the different spectrum
+colours, the previous arrangement is the better. In both cases the two
+beams--the direct and the comparison--may be made to cast shadows
+by placing a rod in their path, the shadow cast by one light is then
+illuminated by the other light. By moving the rod towards or from the
+screen the shadows can be brought side by side.
+
+With this instrument it is easy to demonstrate that a mixed colour
+may be mistaken for a simple colour of the spectrum. In a glass cell
+with parallel sides is a solution of potassium bichromate, which,
+to myself and probably most of you, has a beautiful orange colour.
+The spectrum of white light is now on the screen, and if this orange
+liquid is placed in the path of the white light before it reaches
+the prisms, all the violet, blue, and most of the green is cut off,
+leaving some green-yellow, orange and red only on the screen. That
+these form the orange colour of the bichromate is readily shown by
+removing the auxiliary lens. The spectrum, which has its focus at D, is
+now recombined into a patch of light, which is at once seen to be the
+colour of the solution.
+
+[Illustration: FIG. 6.]
+
+The colour of the bichromate is therefore a complex or mixed colour
+according to our definition, for it is made up of a large number of
+simple colours. What I desire to show, however, is that this complex
+colour can be mistaken by the eye for a simple colour. First, let us
+interpose the cell with the bichromate in the path of the _reflected_
+beam, and throw the patch of light formed by it on a white surface A
+(Fig. 6), alongside the patch of light B formed by the spectrum. Next
+let us pass a single aperture (Fig. 7), which can be opened and closed
+by a screw arrangement, through the spectrum. By careful movement we at
+length come to an orange ray, which is spread out by the apparatus to
+form a patch on B, that to the majority (and the word majority is used
+with intention) of people exactly matches the colour

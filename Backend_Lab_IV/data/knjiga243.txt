@@ -1,0 +1,50 @@
+ one is shown as the extinction for the centre of the eye,
+and the other of the whole eye. Of course the former observations were
+made by looking direct at the spot. This may appear a very easy matter,
+but it is not really so simple as it sounds. It is curious how little
+control there is over the absolute direction of the eyes when the
+light has almost disappeared. The axes of the eyes are often directed
+to quite a different point. When the extinction for the whole eye is
+made, the readings are really much easier, as then the eye roams where
+it likes, and a final disappearance is noted. When the eye has once
+been invested with a roving commission, it is hard to control it. In
+making these observations it was therefore advisable to have data for
+the first branch of the curve, before commencing to observe for the
+later. The main cause of difference between the two branches of the
+curve is due to the absorption by the yellow spot.
+
+It might be thought that with the curves (Fig. 28) before us, we have
+learnt all we can regarding the extinction of light, but is it so?
+Surely we ought to know something as to the reduction necessary for
+extinction of the different parts of the spectrum when they are all of
+equal luminosities and of ordinary brightness.
+
+We arrive at this by simple calculation. Supposing we have two
+luminosities, _one double the other_, it does not require much thought
+to find out that you have to reduce the greater luminosity twice as
+much as the other in order for it to be just extinguished. In other
+words, if we multiply the extinction by the luminosity, we get what we
+want. Now, in the curves before us, we have taken the luminosity of the
+yellow light near D as one amyl-acetate lamp, and that has a height
+in the curve showing the spectrum luminosity very closely approaching
+100. We may, therefore, multiply the extinctions of a ray by the value
+of its ordinate in the luminosity curve and divide the result by 100,
+and this will give us the extinction of each colour, supposing it had
+the luminosity of an amyl-acetate lamp. A portion of the curve so
+calculated is shown in the same diagram (Fig. 28) as a dotted line. It
+appears at the violet end as an approximately horizontal line, and then
+starts rapidly upwards, and would, if carried on to the same scale,
+reach far out of the diagram; but at the extreme red it would be found
+to bend and again become horizontal. I would have you notice that the
+same is true not only for the extinction observed with the centre of
+the eye through the yellow spot, but also for the whole eye. Such
+straight, horizontal parts of the curve must mean something.
+
+[Illustration: FIG. 30.]
+
+In the diagram (Fig. 16) of colour sensations we see that in each
+of these two regions there is but one sensation excited, viz. the
+violet and the red. Now, if these sensation curves mean anything, the
+reduction necessary to produce the extinction of the same sensation
+when equally stimulated should prove to be the same, for there is
+no reason to the contra

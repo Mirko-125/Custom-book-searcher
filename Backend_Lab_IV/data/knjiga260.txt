@@ -1,0 +1,46 @@
+he light of the spectrum disappeared. As
+the slit moved along the spectrum, and the white was approximately
+reduced to equal luminosity, she described all the red as grey, and
+of the same colour as the white until 53·5 (λ 6110). At this point
+she said the colour was brownish compared with the white, and this
+hue continued to her till 48 on the scale (λ 5720), when she said the
+colour was “neither brown nor green, but both.” From 48 on the scale
+she described the colour as green, when it changed quite suddenly at
+31·5 (λ 4905). From this point and in the blue she again began to see
+grey; the grey at this end of the spectrum, and also of the white
+patch, she called brownish-grey. This name must evidently have been a
+mental distinction, as she described the red end and the white as grey
+only, and not brownish-grey; and, indeed, she was tested again over
+that part of the spectrum, and adhered to the previous naming. It would
+appear to be due to low luminosity, which made the grey appear to her
+what she called brownish, rather than to any actual difference in hue.
+
+  ---------+------------+---------+--------------------------+----------
+  Scale No.|Wave-length.| Reading.|  Colours named by N. W.  | Spectrum
+           |            |         |                          | colours
+           |            |         |                          | to normal
+           |            |         |                          | vision.
+  ---------+------------+---------+--------------------------+----------
+    60     |    6728    |   3     | Both grey                |  Red.
+    58     |    6520    |  10     |     „                    |
+    56     |    6330    |  30     |     „                    |
+    54     |    6152    |  52     | Colour “brownish,”       |
+           |            |         |   white “grey”           |
+    52     |    5996    |  70     |     „     „     „        |
+    50     |    5850    |  81     |     „     „     „        |  Orange.
+    48     |    5720    |  87     | Colour “brownish-green.” |
+           |            |         |   white “grey”           |
+    46     |    5596    |  90     | Colour “green,” white    |
+           |            |         |   “grey”                 |
+    44     |    5481    |  88     |     „           „        |
+    42     |    5373    |  82     |     „           „        |
+    40     |    5270    |  62·5   |     „           „        |  Green.
+    38     |    5172    |  46     |     „           „        |
+    35     |    5042    |  23     |     „           „        |
+    32     |    4924    |  12·5   |     „           „        |
+    31     |    4886    |  10     | Colour “brownish-grey,”  |
+           |            |         |  white “brownish-green.” |
+    30·5   |    4862    |   8·5   |    „      „      „       |  Blue.
+    25     |    4675    |   5     |    „      „      „       |
+    20     |    4518    |   3     |    „      „      „       |
+   

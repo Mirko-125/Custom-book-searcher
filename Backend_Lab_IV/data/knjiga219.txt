@@ -1,0 +1,48 @@
+ and F of the spectrum was read off on the
+scale at A B. It was found that after the instrument had been in use
+some time these positions were invariable, showing that the eye-hole,
+the prisms, and the scale might be considered as rigidly connected.”
+
+[Illustration: FIG. 15.]
+
+With this instrument he made mixtures of three colours, to match with
+white. By shifting the slits into various positions and taking as his
+three standard colours a red near the C line, a green near E, and a
+blue between F and G (see frontispiece), he obtained a variety of
+matches, from which he formed equations. After eliminating, or rather
+reducing the errors to the most probable value by the method of least
+squares, he got from his matches with white a table of colour values
+in terms of the three standard colours, from which the diagram of the
+spectrum (Fig. 15) was made. (The heights of the dotted curves are
+derived from the widths of the slits, and the continuous curve is
+the sum of these heights.) Now what appears to be a properly chosen
+colour does not necessarily stimulate only one sensation. Indeed the
+probabilities are against it, except in the extreme red and extreme
+violet. If colours intermediate to the standard colours be matched by a
+mixture of the latter, we do not arrive at any solution of the amount
+of stimulation of each sensation, since the chosen standard colours
+themselves may be due to a stimulation of all three sensations. As a
+matter of fact, Clerk Maxwell chose colours which do not best represent
+the colour sensations. The red is too near the yellow, as is also the
+green. The blue should also be nearer the violet end of the spectrum
+than the position which he chose for it. We may take it, then, that
+except as a first approximation, Clerk Maxwell’s diagrams need not be
+seriously taken into account. The diagram itself shows that the colour
+_sensations_ are not represented by the colours he chose. Supposing
+any one in whom the sensation of green is absent were examining the
+spectrum, there would, according to the diagram, be no light visible
+at the green at E. Anticipating for a moment what we shall deal with
+in detail shortly, it may be stated that in cases where it is proved
+that a green sensation is absent, there is no position in any part of
+the spectrum where there is an absence of light. Had he chosen any
+other green, the same criticism would have been valid. The diagram as
+it stands is really a diagram of _colour mixtures_ in terms of three
+arbitrarily chosen colours, and not of colour _sensations_. It merely
+indicates what proportions were needed of the three colours, which
+he took as standards, to match the intermediate spectrum colours.
+The negative sign in some of the equations--given in the appendix,
+page 201--may be somewhat puzzling to those who have not made colour
+matches, but not to those who have actually made experiments. It
+means that where it is present no match of colour by a mixture of
+the standard colours is possible; and that it would be only possible
+i

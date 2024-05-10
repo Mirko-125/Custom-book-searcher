@@ -1,0 +1,50 @@
+ced green.
+
+[Illustration: FIG. 27.]
+
+But how are we to measure this extinction of light at the different
+parts of the spectrum? This is a problem which I have attacked during
+the last few years by a variety of methods; but as is the case with
+almost every scientific problem, when the mode of attack is reduced to
+its simplest form, it yields the more readily to solution. If we have
+a box, like that figured in Fig. 27, and combine it with our colour
+patch apparatus, the problem is solved. B B is a closed box 3 feet
+long and about 1 foot high and wide, having two similar apertures 1½
+inch in diameter in the positions shown. The aperture at the side is
+covered on the inside by a piece of glass _a_, ground on both sides,
+and a tube T is inserted, in which diaphragms, D, of various apertures
+can be inserted at pleasure. The most convenient form of diaphragm is
+that supplied with photographic lenses--an iris diaphragm. E is a tube
+fitted at the end of the box through which the screen S is viewed. S
+is black except in the centre, where a white disc is fastened to it. A
+mirror, M, placed as shown, reflects the light scattered by the ground
+glass on to the screen S. The rotating sectors are placed where shown,
+and are in such a position that they can be readily adjusted by the
+observer. The patch of any desired colour of the spectrum is thrown
+on _a_, and an appropriate size of diaphragm used, so that when the
+sectors are not less than 5° to 10° open, the light totally disappears.
+We can now make observations throughout the whole spectrum, and knowing
+the value of the different apertures of the diaphragm and the angular
+opening of the rotating sectors, we can at once find the amount of
+reduction of the particular part of the spectrum that is being required
+in order to just extinguish all traces of light from the white disc
+at the end of the box. From these measures we can readily construct
+a curve or curves which will graphically show the reduction given
+to the different parts of the spectrum. Fig. 28 gives the curve of
+extinction for ordinary normal colour vision. The spectrum was of such
+a brilliance that the intensity of the square patch of light formed on
+_a_ of the orange light (D) was exactly that of an amyl-acetate lamp,
+placed at one foot distance from the receiving screen. Knowing this,
+the actual luminosity of all the other rays of the spectrum can be
+derived from the curve of luminosity (see Fig. 20). Extinguishing the
+various parts of the spectrum by this plan, it is found that the red
+rays cease to stimulate the retina sufficiently to give any appearance
+of light long before the green rays are extinguished. It is only the
+rays in the extreme violet of the spectrum, and which consequently
+possess very feeble luminosity, that make any approach towards
+requiring the same amount of reduction as the red rays.
+
+[Illustration: FIG. 28.]
+
+There is the fact to remember in making these measures in the extreme
+red and the extreme violet, that the luminosities of the colours are

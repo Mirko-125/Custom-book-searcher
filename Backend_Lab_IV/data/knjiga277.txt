@@ -1,0 +1,71 @@
+find
+
+                   22·6 (104) - 7·7 (88) + 4·3 (68) = D      (3)
+
+where D is that colour, the absence of the sensation of which
+constitutes the defect of the dichromic eye.
+
+The sensation which I have in addition to those of the dichromic eye
+is therefore similar to the full red (104), but different from it in
+that the red (104) has 7·7 of green (88) in it which must be removed,
+and 4·3 of blue (68) substituted. This agrees pretty well with the
+colour which Mr. Pole[A] describes as neutral to him, though crimson
+to others. It must be remembered, however, that different persons of
+ordinary vision require different proportions of the standard colours,
+probably owing to differences in the absorptive powers of the media of
+the eye, and that the above equation (2), if observed by K., would have
+been
+
+                       23 (104) + 32 (88) + 31 (68) = W      (4)
+
+and the value of D, as deduced from these observers, would have been
+
+                     23 (104) - 1·7 (88) - 1·1 (68) = D      (5)
+
+in which the defective sensation is much nearer to the red of the
+spectrum. It is probably a colour to which the extreme red of the
+spectrum tends, and which differs from the extreme red only in not
+containing that small proportion of “yellow” light which renders it
+visible to the colour blind.
+
+    [A] Philosophical Transactions, 1859, Part I., p. 329.
+
+From other observations by Mr. Simpson the following results have been
+deduced:--
+
+
+TABLE A.
+
+              (88) (68)  |              (88) (68)
+  (99·2 +)  = 33·7  1·9  |  100 (96) =  108    7
+  31·3 (96) = 33·7  2·1  |  100 (92) =  120    5
+  28   (92) = 33·7  1·4  |  100 (88) =  100    0
+  33·7 (88) = 33·7  0    |  100 (84) =   61   11
+  54·7 (84) = 33·7  6·1  |  100 (82) =   47   21
+  71   (82) = 33·7 15·1  |  100 (80) =   34   33
+  99   (80) = 33·7 33·1  |  100 (78) =   22   47
+  70   (78) = 15·7 33·1  |  100 (76) =   10   59
+  56   (76) =  5·7 33·1  |  100 (72) =    1   92
+  36   (72) =  0·3 33·1  |  100 (68) =    0  100
+  33·1 (68) =  0   33·1  |  100 (64) =    0   83
+  40   (64) =  0·2 33·1  |  100 (60) =    3   60
+  55·5 (60) =  1·7 33·1  |
+  (57 -)    =  0·3 33·1  |
+
+In the table on the left side (99·2 +) means the whole of the spectrum
+beyond (99·2) on the scale, and (57 -) means the whole beyond (57) on
+the scale. The position of the fixed lines with reference to the scale
+was as follows:--
+
+A, 116; a, 112; B, 110; C, 106; D, 98·3; E, 88; F, 79; G, 61; H, 44.
+
+The values of the standard colours in different parts of the spectrum
+are given on the right side of the above table, and are represented by
+the curves of Fig. 9, Plate II., where the left-hand curve represents
+the intensity of the “yellow” element, and the right-hand curve that of
+the “blue” element of colour as it appears to the colour blind.
+
+The appearance of the spectrum to the colour blind is as follows:--
+
+From A to E the colour is pure “yellow,” very faint up to D, and
+reachi

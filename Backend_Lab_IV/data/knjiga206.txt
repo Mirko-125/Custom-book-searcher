@@ -1,0 +1,44 @@
+responding to parallels of latitude on a globe, and are not,
+therefore, equi-distant when seen in projection. To make these circles
+it must be imagined that we have a bowl, in the middle of which is a
+thin rod standing upright and passing through the centre, and another
+rod attached to it at the centre of the sphere of exactly the length
+of the radius. If this last arm be opened to make an angle of 5° with
+the fixed rod, and be twisted round like the leg of a compass against
+the bowl, it will make a circle, the projection of which will give the
+innermost circle of the diagram; if opened to 10° it will give the next
+circle, and so on for every subsequent 10°. The lines passing through
+the centre are 30° from one another, the line stretching from 360° to
+180° being a line supposed to be vertical. By means of an instrument
+called the perimeter, the field of vision for each eye can be measured.
+With its aid any small object can be made to fall on any part of the
+retina by directing the axis of the eye to a fixed point and moving
+the object along one of the diameters. Suppose we wish to ascertain
+the field for a white object, a small white disc is moved, say, along
+the horizontal line, and the angles at which the retina just no longer
+sees it are noted. This gives two points in the field, and they are
+plotted on the chart--in Fig. 3 one touches the outside circle, and the
+other is at an angle of about 65°. The field of vision is next tested
+along another line, say 300° to 120°, and other points noted and marked
+on the chart. When the whole circle has been examined, the various
+points are joined together, and we have the boundary of vision for a
+white object. The boundaries of the _colour_ perception for (say) small
+red and green discs are found in the same way. The former is depicted
+in the left-hand chart and gives the field for the right eye, and the
+latter with that for white in the right-hand chart for the same eye.
+It will be noticed that two boundaries are given, one taken at mid-day
+and the other at 6 p.m. The brighter the colour, the larger is the
+boundary in both cases, showing that the field of colour vision varies
+according to the illumination. Now it is difficult from this method of
+experimenting to determine whether the fields for different colours are
+the same or differ in extent, as we have no information as to whether
+the colours themselves which were used were physiologically equal. The
+only way by which this can be satisfactorily determined is by using
+spectrum colours each of known brightness and area. (Some preliminary
+experiments made by myself regarding the colour fields will be found in
+the appendix, and will be referred to later.) It must not be thought
+that the various colour boundaries mark the limit at which _light_ is
+perceived, but only the limit at which colour is seen; outside the
+boundaries the objects appear of a nondescript colour, to which we
+shall by-and-by call attention. The yellow spot lies within the circle
+of 5°, and the blind spot on 

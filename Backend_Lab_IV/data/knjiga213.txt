@@ -1,0 +1,55 @@
+withdraw it, a _dark_ image of the points will be
+seen on the partially lighted screen, and will appear to travel with
+the eyes as they move away from the fixed point. This phenomenon is
+due to the fact that the perceiving apparatus for white light gets
+fatigued on the parts of the retina on which the bright image of the
+white carbon points thrown on the screen fell, and that when the
+source of brightness was removed, the less intense illumination of
+the screen failed to stimulate the vision apparatus at those parts
+to the same extent that they were stimulated over the rest of the
+field. We can vary the experiment by placing a red glass in front
+of the electric light, and, following the same course as before, we
+shall see a greenish-blue image of the carbon points upon the screen.
+In this case the retinal apparatus which has not been stimulated by
+the red sensation will be capable of the maximum stimulation by the
+feeble white light, whilst that part which has suffered fatigue will
+not respond so freely to the red contained in the white light. If we
+abstract a certain amount of red from the spectrum, its recombination
+will give a white tinged with greenish blue, which is a counterpart of
+the colour we feel when the eyes have been fatigued by the red light.
+
+
+
+
+CHAPTER III.
+
+
+Let me take you back again to matches of colour. We will now, however,
+make the matches with the primary colours in the guise of pigments.
+These colours themselves are complex colours, but as the eye cannot
+trace any difference, or at all events very little difference, between
+them and simple colours, a mixture of these complex colours should
+answer nearly as well as do mixtures of the simpler colours. We have
+here three discs, a red, a green, and a blue, and we can very closely
+match these colours by a red, a green, and a blue in the spectrum.
+
+By having a radial slit cut to the centre of these card discs, we can
+slip one over the other so as to expose all three colours as sectors of
+a single disc. Then we can place the compounded disc on the axis of a
+rapidly rotating motor, and the colours will blend together, giving an
+uniform colour. Any proportions of the three colours can thus be mixed,
+and by a judicious alteration in them we now have them so arranged
+that they give a grey. By inter-locking together (Fig. 9) a black disc
+and a white disc, each with a diameter slightly larger than that of
+the other discs, but equal to each other, and rotating them on the
+same spindle behind the three colour discs, we can, by an alteration
+in the proportion of black to white, form a grey which will match that
+produced by the rotation of the three coloured sectors. In other words,
+white, though degraded in tone, can be produced by the three complex
+pigment colours, as we have seen can also be done by the mixture of the
+three simple spectrum colours.
+
+[Illustration: FIG. 9.]
+
+The mixture of the three spectrum colours can match other colours than
+white. For instance, it can be made to match the colour of brown pa

@@ -1,0 +1,52 @@
+f luminosity, as the yellow spot absorption
+is absent, and the difference in the heights of the ordinates between
+the two curves will give us that absorption. Fig. 20 shows this very
+well; and it will be noticed that the eye is appreciably not so
+sensitive to the red and yellow at 10° from the axis as it is on its
+central area. If we measure the areas of these two curves we get the
+relative values of the light energy which is active on the two parts
+of the eye, and these we found to be as 167 to 156. The heights at
+which to put the maxima of the two curves were found from various
+considerations, and the correctness of the deductions was verified by
+directly comparing the intensities of two patches of white light some
+10° apart, which, when looked at direct, were of equal intensities.
+When one was compared with the other, the eye receiving one image
+centrally and the other outside the yellow spot, the difference in
+values was closely proportional to those of the above areas. The part
+of this last curve showing a deficiency in red sensation is very
+similar to that obtained from a person who is partially colour blind.
+The absorption by the yellow spot derived from these measures is
+graphically shown in the next figure (Fig. 21).
+
+[Illustration: FIG. 20.]
+
+[Illustration: FIG. 21.]
+
+The question of the visual sensation at the “fovea centralis” (if it be
+admitted that this is coincident with the visual axis of the eye, as is
+usually accepted) may be very easily studied. When the luminosity of
+the spectrum is examined at five or six feet distance, by throwing the
+two patches on the whitened face of a small square of half-inch side,
+we get a result differing from both of the above. The fovea appears
+to be slightly more sensitive to red than the macula lutea, and is
+generally less sensitive to the green rays (see Fig. 20). If a star,
+or a distant light, be observed with the part of the retina, on which
+the axis of the eye falls, as is the case in ordinary vision, and then
+be observed with the eye slightly directed away, the difference in the
+colours of the light is unmistakable. (The tables giving the measured
+value of these curves will be found in the appendix, page 211.)
+
+[Illustration: FIG. 22.]
+
+Can we in any way find from these methods the colour sensation curves?
+I think we can. Suppose we have a second instrument exactly like the
+first placed side by side with it, we can then throw two patches of
+colour on the two adjacent white surfaces, and we can mix with either,
+or both of them, as much white light as we choose. From the second
+instrument let us throw all the spectrum colours in succession on to
+the one surface, and on to the other the three primary colours mixed in
+such proportions as to match them accurately. This plan is, I venture
+to think, a better way of obtaining the value of colours in terms of
+standard colours than that adopted by Maxwell. This method gives the
+values directly, and not by calculation from matches with white. Let
+us place one slit near each

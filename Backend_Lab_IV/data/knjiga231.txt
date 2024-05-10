@@ -1,0 +1,57 @@
+s were made--
+
+                     251 R + 109 U = 62 W + 298 B,
+
+                                  and
+
+                     277 G + 83 U = 107 W + 253 B.
+
+In this case 363 Green are equivalent to 251 parts of Red mixed with 78
+of White and 34 Black. The difference in the matches made by the two
+types of colour blindness is very evident. In the one case the amount
+of red required is much greater than the green, and in the other _vice
+versâ_. Another instance may be given of colour matches made, by means
+of discs, by a _partially_ green-blind person, whose case will be more
+fully described when we treat of the luminosity of the spectrum to the
+different classes of colour vision.
+
+His matches were as follows--1st, That of the normal vision. 2nd,--
+
+                  160 R + 80 G + 120 U = 72 W + 288 B.
+
+The green was then altered to 200, when the following made a match--
+
+                  65 R + 200 G + 95 U = 72 W + 288 B.
+
+Using these two equations, we have the following curious result--that
+120 G was matched by 95 R + 25 U. As the green disc is nearly twice as
+luminous as the red to normal colour vision, this equation confirms
+the result otherwise obtained, that his blindness to colour is a
+deficiency in the green sensation. No mixtures of blue and red, or blue
+and green, would match a grey formed by the rotation of the black and
+white sectors.
+
+I must now introduce to your notice a different method of experimenting
+with colour vision. If we throw the whole spectrum on the screen, and
+ask a person with normal vision to point out the brightest part, he
+will indicate the yellow, whilst a red-blind will say the green, and
+so on. This tells us that the various types of colour blind must see
+their spectrum colours with luminosity differing from that of the
+normal eye. The difference can be measured by causing both to express
+their sense of the brightness of the different parts of the spectrum
+in terms of white light, or of one another. Brightness and luminosity
+are here used synonymously. On the two small screens are a red and a
+green patch of monochromatic light--a look at the green shows that it
+is much brighter than the red. Rotating sectors, the apertures of which
+can be opened or closed at pleasure during rotation, are now placed in
+the path of the green ray. The apertures are made fairly small, and the
+green is now evidently dimmer than the red. When they are well open
+the green is once more brighter. Evidently at some time during the
+closing of the apertures there is one position in which the red and
+green must be of the same brightness, since the green passes through
+the stage of being too light to that of being too dark. By gradually
+diminishing the range of the “too open” to “too closed” apertures we
+arrive at the aperture where the two colours appear equally bright. The
+two patches will cease to wink at the operator, if we may use such an
+unscientific expression, when equality in brightness is established.
+This operation of equalising luminosities m

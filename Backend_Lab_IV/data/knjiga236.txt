@@ -1,0 +1,45 @@
+ of the extreme ends of the spectrum; that
+in the red near the red lithium line, and another a little beyond G
+in the violet of the spectrum, whilst the third slit should be in the
+exact position in the green, where the _green-blind sees grey_. Now it
+might be a matter of dispute as to whether one was entitled to make
+this last one of the positions for the slits, for we use it entirely
+on the assumption that two of the colour sensations which we suppose
+we possess are identical with those of the green-blind. This might be,
+or might not be, the case; but I think it can be shown very easily
+that the assumption we are making is more than probably exact. Having
+the slits in these positions, we may endeavour to match the spectrum
+orange. We mix the red and the green lights together, and find that the
+best mixture is always paler than the orange, but by adding a small
+quantity of white to the orange we at once form a match. In the same
+way if we have a greenish-blue to match, we shall find that we can only
+make the match when we add a little white to the simple colour. Now
+let us shift the position of the slit in the green just a little--a
+very little--towards the blue, and again try to match orange. Do what
+we will we cannot find apertures to the slits which will give us the
+colour, though it be diluted with white. It will be too blue or too
+red, but never exactly orange. This tells us that there is too much
+blue in the green we are using. Next, shift the slit a little towards
+the red below our fixed position, and endeavour to match the blue.
+We shall find that this, too, becomes impracticable. The blue is
+either too green or too violet, telling us that our mixture contains
+too much green. As the neutral point of the colour blind is the only
+position for the green slit which enables us to make a good match to
+both the orange and the blue, it follows that this must be the point
+where these two colour sensations are so arranged as to be in the
+proportions required to form white when green is added; that is, that
+there is neither an excess of red nor an excess of violet. To come
+back to our measures of colour. We can make up every spectrum colour
+with these three colours, and finally divide the luminosity curve into
+the _colour luminosity_. In all these matches the violet luminosity is
+very small indeed compared with the red or green. A match with white
+is now made by a mixture of all these colours, and you will see, from
+the images of the slits on the screen, that the _luminosity_ of the
+violet is almost a negligible quantity compared with the others. We
+may, therefore, as a first approximation, divide up the luminosity
+curve into two parts, one being the luminosity of the green in the
+different colours and the other of the red. The green, however, is
+made up of red, of violet, and of an excess of green sensation, which
+in this case comes practically to a mixture of white with the green
+sensation. How can we tell how much is green and how much is white?
+Suppose I, as a normal-eyed perso

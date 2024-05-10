@@ -1,0 +1,50 @@
+ust be carried out quickly
+and without concentrated thought, for if an observer stops to _think_,
+a fancied equality of brightness may exist, which other properly
+carried out observations will show to be inexact. Now, instead of
+using two colours, we can throw on a white surface a white patch from
+the reflected beam, and a patch of the colour coming through the slit
+alongside and touching it. The white is evidently the brighter, and so
+the sectors are placed in this beam. The luminosity of (say) a red ray
+is first measured, and the white is found to require a certain sector
+aperture to secure a balance in brightness. We then place another
+spectrum colour in the place of the first, and measure off in degrees
+the brightness of this colour in terms of white light, and we proceed
+similarly for the others. Now how are we to prove that the measures
+for luminosity of the different colours are correct? Let us place three
+slits in the spectrum, and by altering the aperture of the slits make
+a mixture of the three rays so as to form white. The intensity of this
+white we can match with the white of the reflected beam. We can then
+measure the brightness (luminosity) of the three colours separately,
+and if our measures are correct there is _primâ facie_ reason to
+suppose that they will together make up the brightness of the white.
+Without going through this experiment it may at once be stated that the
+reasoning is correct, for within the limits of error of observation
+they do so. Having established this proposition, we can next compare
+_inter se_, the brightness of any or all of the rays of the spectrum by
+a preliminary comparison with the reflected beam of white light. As in
+the colour patch apparatus all colours and principal dark lines of the
+solar spectrum are known by reference to a scale, in making a graphic
+representation of the results, we first of all plot on paper a scale
+of equal parts, and at the scale number where a reading is made, the
+aperture of the sectors in degrees is set up. Thus, suppose with red
+light the scale number which marked the position of the slit was 59,
+and the aperture 10°, we should set up at that scale number on the
+paper a height of 10 on any empyric scale. If in the green at scale
+No. 38 the sectors had to be closed to 7°, we should set up 7 at that
+number on the scale.
+
+When observations have been made at numerous places in the spectrum,
+the tops of these ordinates, as they are called, should be joined, and
+we then get the observed curve of luminosity for the whole spectrum.
+For convenience’ sake we make the highest point 100, and reduce the
+other ordinates in proportion. For some purposes it may be advantageous
+to give the luminosity curve in terms of a scale of wave-lengths. For
+our purpose, however, it is in general sufficient to use the scale of
+the instrument.
+
+[Illustration: FIG. 19.]
+
+Now, if we test the vision of the various types of colour blind by
+this plan, we should expect to get luminosities at different parts of
+the spectrum which 

@@ -1,0 +1,59 @@
+y be even greater than when the wave period
+is absolutely the same as one of them. For in the last case a maximum
+effect may be produced on one apparatus, and the effects on the other
+two may be insignificant; whilst in the first case the effects on two
+of them may be so large that their combined effects may have a larger
+value.
+
+[Illustration: FIG. 12.]
+
+The following diagram (Fig. 12), made on the principle of Lissajou’s
+figures, shows graphically the motion of the pendulum. The pendulum,
+with a pen attached, was started by an independent pendulum, which had
+a different period, and the amplitude of the former registered itself
+on paper which moved by clockwork round the axis of suspension. As
+the two pendulums had different periods, the amplitude, as shown by
+the traces made, first increased and then diminished till there was
+no motion, and then started again. The trace is very instructive, and
+deserves attention. It will be noticed that the amplitude, or length
+of swing, increased rapidly at first, and then very gradually attained
+a maximum. Having attained this maximum, the amplitude diminished very
+slowly for some time, and finally came rather rapidly to zero, and the
+pendulum for an instant was at rest.
+
+[Illustration: FIG. 13.
+
+The top figure is the red sensation on the Young theory; the middle is
+the green sensation, and the lowest the violet or blue sensation.]
+
+With the notion in our minds that the perceiving apparatus might
+act in the way that the pendulum acts, we naturally apply it to the
+theories which early investigators on colour vision propounded. Thomas
+Young, whose name has already been mentioned, had propounded a theory
+of vision, which depended on the existence of only three colour
+sensations, and Von Helmholtz adopted it and explained the action of
+the three sensations in reference to the spectrum as shown in the
+diagram. These figures do not pretend to be absolute measures of the
+sensations, but only of the form which they might take (Fig. 13).
+The height of the curve at each part of the spectrum is supposed to
+represent the stimulation given to each apparatus by the different
+colours. Looking at the figures we see that each sensation has a
+place of maximum stimulation, and that the stimulation falls off more
+or less rapidly on each side of this maximum. It will, however, be
+noticed that whilst the green sensation takes very much the form of the
+pendulum amplitudes (Fig. 12) between its periods of rest, the other
+two differ from it. In the case of the red sensation, the stimulation
+falls very rapidly in the red as it reaches the limit of visibility of
+the spectrum, and in that of the blue sensation the steep descent is
+towards the extreme violet. When the three sensation theory is examined
+in the light of the careful measurements that have been made, the
+results tell us that these diagrams can only be taken as suggestive.
+
+
+
+
+CHAPTER IV.
+
+
+An independent investigator of this subject was Clerk Maxwell, who
+experimented with a “colour-box”

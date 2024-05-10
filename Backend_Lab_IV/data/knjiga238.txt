@@ -1,0 +1,51 @@
+taking any such measures as being conclusive.
+
+
+
+
+CHAPTER VIII.
+
+
+Before quitting the measurement of luminosity, it may be as well to
+see whether the curves described are the same whatever the brilliancy
+of the spectrum may be. We can easily experiment with a very reduced
+brightness. Upon the screen we have an ordinarily bright spectrum. As
+the slit, through which the white light forming the spectrum comes, is
+narrowed, there is an evident change in the relative brightness of the
+different parts, though the energy of every ray must be proportionally
+reduced. The red is much more enfeebled than the green, and in
+brightness the green part of the spectrum looks much more intense
+than the yellow, which is ordinarily the brightest part. This we have
+assured ourselves of not only by casual observation, but also by direct
+measurement. Perhaps I can make this even more decisive to you. Two
+slits are now in the ordinarily bright spectrum, one in the red, and
+the other in a green which is near the E line of the solar spectrum.
+Instead of using one lens to form a single colour patch of mixed light,
+two parts of a lens, appropriately cut and of the same focal length as
+the large combining lens, are placed in front of the slits, one bit of
+lens before each. This artifice enables us to throw the patch of red
+on one white surface, and the patch of green light on another adjacent
+to it. By opening or closing one or other of the slits the brightness
+of the two patches of light are so arranged that there is no manner
+of doubt but that the red is the brighter of the two. The absolute
+energies of the rays forming each of the patches are proportionally
+reduced by closing the slit of the collimator, as before. At one stage
+both patches appear of about the same intensity. This might be taken
+for an error in judgment, but to make the change that takes place
+perfectly plain to you, the rotating sectors are introduced in front of
+the two slits, and the rays now pass through them. The apertures of the
+sectors are gradually closed, and we now come to such a reduction that
+the red is absolutely invisible; but the green still shines out. It is
+losing its colour somewhat, and appears of a bluish tint. The reason of
+this change of hue in the latter we shall shortly see. The sectors are
+withdrawn and the red re-appears, and is as bright as the green. The
+slit of the collimator is next opened, and there is no doubt that the
+red is much brighter than the green, as it was purposely made at the
+beginning of the experiment. The same class of experiment might have
+been repeated with the green and violet or the red and violet, and the
+same kind of results would have been obtained. The violet would have
+been the last to disappear when the green was so reduced in luminosity
+that it appeared in the ordinary brilliant spectrum to be equal to
+the violet ray selected. When the green was of the luminosity given
+by a slit equal in width to that of the violet, the violet would have
+disappeared first, owing to its feeble b

@@ -1,0 +1,51 @@
+rightness to begin with. Now,
+if we measure a feebly illuminated spectrum we must adopt some special
+means to exclude all light, except that of the comparison light and the
+ray to be measured. This we can do by the box which is shown in the
+next diagram (Fig. 24).
+
+[Illustration: FIG. 24.]
+
+At one end of a box, shown in plan, is an eye-piece, E. The other
+end has at its centre a white square of paper of 1½-inch scale. The
+monochromatic beam _a_, coming from the spectrum through the slit S
+and the reference beam _b_ of white light, are reflected from glass
+mirrors M₁, M₂ to apertures in opposite sides of the box, and from
+close to these apertures by the right-angled prisms P₁ P₂, so as to
+fall on and cover S. Rods R₁, R₂ are inserted in the box in the
+paths of the beams, so that the opposite halos of S are illuminated.
+Diaphragms inside the box cut off any stray light, and rotating sectors
+placed at A and B regulate the intensity of the beams as required.
+The sector A is rotated with a previously determined-on aperture;
+the white light coming through B is altered till the luminosity of
+the two on the screen, as seen through E, are the same. Every part
+of the spectrum can be measured in this way; the result is shown in
+the diagram. Fig. 25 (the measures will be found at page 215 in the
+appendix). In this case the orange light at D where it fell on the
+screen was equal to 1/132 of an amyl-acetate light, which, in its turn,
+is closely ·8 of a standard candle. In the same figure the luminosity
+curve of the ordinary bright spectrum is given for reference, and it
+can be seen how the point of maximum luminosity is shifted into the
+green, lying almost over the E line of the solar spectrum. The maximum,
+of course, has been made 100 as before, for had it been drawn to the
+same scale as the other, the form of the curve would not have been
+demonstrated. There is a remarkable resemblance between it and the
+curve of luminosity of the monochromatic vision, and such a resemblance
+can scarcely be fortuitous. As a matter of fact, in this we seem to
+have come to the final curve for low luminosities, and is almost the
+same as that observed when the spectrum is reduced to such an extent
+that it is colourless throughout, a condition that it can assume, as we
+shall see very shortly. When the spectrum is rather more luminous, it
+gives a curve of luminosity which is similar to that of the ordinary
+spectrum when measured by a red-blind person. Here, then, we have an
+indication that a person with normal vision passes through a stage of
+red-blindness, as the intensity is diminished before he arrives at
+absolutely monochromatic vision.
+
+[Illustration: FIG. 25.]
+
+This investigation is of practical as well as theoretical interest, as
+General Festing and myself quickly discovered when we first made it.
+The curious colour of a moonlight landscape is entirely accounted for
+by it. White light becomes greenish-blue as it diminishes in intensity,
+and the reds and yellows, being reduced or absent, 

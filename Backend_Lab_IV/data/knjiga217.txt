@@ -1,0 +1,58 @@
+ of his own design, by which he mixed
+the simple colours of the spectrum, and the results he got are really
+the first which are founded on measurement. He measured something,
+but hardly arrived at the colour sensation. His colour-box took two
+forms, both on the same principles, so only one will be here described,
+the diagram and description being taken from his classic paper in the
+Philosophical Transactions of the Royal Society for 1860.
+
+“The experimental method which I have used consists in forming a
+combination of three colours belonging to different portions of the
+spectrum, the quantity of each being so adjusted that the mixture shall
+be white, and equal in intensity to a given white. Fig. 14 represents
+the instrument for making the observations. It consists of two tubes,
+or long boxes of deal, of rectangular section, joined together at an
+angle of about 100°.
+
+[Illustration: FIG. 14.
+
+Maxwell’s colour-box.]
+
+“The part A K is about five feet long, seven inches broad, and four
+deep; K N is about two feet long, five inches broad, and four deep; B D
+is a partition parallel to the side of the long box. The whole of the
+inside of the instrument is painted black, and the only openings are
+at the end A C, and at E. At the angle there is a lid, which is opened
+when the optical parts have to be adjusted or cleaned.
+
+“At E is a fine vertical slit, L is a lens; at P there are two
+equilateral prisms. The slit E, the lens L, and the prisms P are so
+adjusted, that when light is admitted at E, a pure spectrum is formed
+at A B, the extremity of the long box. A mirror at M is also adjusted
+so as to reflect the light from E, along the narrow compartment of the
+box to B C.
+
+“At A B is a rectangular frame of brass, having a rectangular aperture
+of six inches by one. On this frame are placed six brass sliders,
+X Y Z. Each of these carries a knife-edge of brass in the plane of the
+surface of the frame.
+
+“These six movable knife-edges form three slits, X Y Z, which may be so
+adjusted as to coincide with any three portions of the pure spectrum
+formed by light from E. The intervals behind the sliders are closed by
+hinged shutters, which allow the sliders to move without letting light
+pass between them.
+
+“The inner edge of the brass frame is graduated to twentieths of an
+inch, so that the position of any slit can be read off. The breadth of
+the slit is ascertained by means of a wedge-shaped piece of metal, six
+inches long, and tapering to a point from a width of half an inch. This
+is gently inserted into each slit, and the breadth is determined by the
+distance to which it enters, the divisions on the wedge corresponding
+to the 200th of an inch difference in breadth, so that the unit of
+breadth is ·005 inch.
+
+“Now suppose light to enter at E, to pass through the lens, and to be
+refracted by the two prisms at P, a pure spectrum, showing Fraunhofer’s
+lines, is formed at A B, but only that part is allowed to pass which
+falls on the three slits, X Y Z. The rest is 

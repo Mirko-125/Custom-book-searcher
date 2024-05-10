@@ -1,0 +1,48 @@
+ul of the conditions under which we
+experiment. This can be shown by a very simple experiment. I will make
+a match on B with the white light, which is thrown on the surface A
+(Fig. 6), by mixing the red, green, and violet that pass through the
+three adjustable apertures or slits already described. The apertures
+are altered till the match appears to myself perfect. From an appeal
+made to those of the audience who are at least 25 feet away from the
+patches of light, as to the correctness of the match, I gather that
+the match is to them imperfect. The mixed colours appear to them to
+give a pinkish white. The reason of this defect in the match is due
+to the fact that, as the lecturer is viewing the two square patches
+of 2 in. side from a distance of 2 ft. 6 in., their images on his
+retina extend beyond the boundary of the yellow spot, whilst the
+audience receives the whole of the image on that portion of the retina
+which is completely covered by it. To the lecturer only part of the
+blue and green is absorbed by the yellow spot, and the part of the
+retina outside it on which the image falls receives and records the
+full intensity of these colours. To the audience the full amount of
+absorption takes place, with the result that the patch of mixed colours
+must appear too red when it is correct to the lecturer. In this case
+habit makes the eye take an average of the different intensities which
+must exist at the various parts of the image. We can, however, cause
+a perfect agreement between all parties if the experimenter views the
+surfaces in a mirror placed some 12 feet away and then makes the match,
+for he is viewing the patches from what is practically a distance of
+24 feet. If after making the match without the aid of the mirror the
+lecturer’s eyes are directed a little to one side of the illuminated
+surfaces, a match will no longer exist; the mixed colour, which is
+to the audience pinkish, will now appear a bluish green to him. The
+reason for this alteration in hue is that the whole of the images falls
+outside the yellow spot.
+
+It will now be quite apparent that we must discount any assertion in
+regard to colour matches, unless we are told the distance of the eye
+from the surface on which the match is made, together with the size
+of that surface. This yellow spot is often provokingly tiresome in the
+study of colour mixtures, and one might almost be justified in doubting
+whether any _absolutely_ exact matches can ever be vouched for, owing
+to the important region of the retina which it occupies.
+
+The fatigue of the retina to colour after it has been presented to
+the eye for any length of time is a difficulty, but in a less degree.
+That the retina does experience fatigue can be shown by a very simple
+experiment. The lecture theatre is now illuminated by the incandescent
+light, and if we throw an image of the bright carbon points of the
+electric arc light on the screen and steadily fix the eyes on the
+image of the white-hot crater for some (say) twenty seconds, and
+then we suddenly 

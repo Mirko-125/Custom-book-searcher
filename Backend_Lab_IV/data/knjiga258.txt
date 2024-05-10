@@ -1,0 +1,66 @@
+ve scale No. 26·75 W. S. saw blue, and his spectrum
+was continued normally in the violet. His luminosity curve (Fig. 37)
+was made without any difficulty, and, compared with my own, shows a
+slight deficiency in brightness from the red to the yellow, but his
+perception of luminosity increases as the blue is approached.
+
+
+TABLE OF LUMINOSITY FOR W. S. _See_ page 155.
+
+  ---------+------------+---------+---------+----------
+           |            |         | Spectrum| Spectrum
+           |            |         | colours | colours
+           |            |         |  named  | to normal
+  Scale No.|Wave-length.| Reading.| by W. S.|   eye.
+  ---------+------------+---------+---------+----------
+     60    |    6728    |   3·4   | Grey    | Scarlet.
+     58    |    6520    |  15·0   |  „      |
+     56    |    6330    |  41·0   |  „      |
+     55    |    6242    |  43     |  „      |
+     54    |    6152    |  69     |         |
+     52    |    5996    |  94     |         |
+     50    |    5850    | 100     |  „      | Orange.
+     48    |    5720    |  96     |         |
+     45    |    5538    |  88     |         |
+     42    |    5373    |  74     |         |
+     40    |    5270    | 61·5    |  „      | Green.
+     38    |    5172    |  45     |         |
+     35    |    5042    |  30     |         |
+     30    |    4848    |  12     |  „      |Blue.
+     25    |    4675    |   6     | Bluish  |
+     20    |    4518    |   4     |         |
+     15    |    4376    |   3     | Blue    | Violet.
+     10    |    4248    |   2·5   |  „      |
+  ---------+------------+---------+---------+----------
+
+He was subsequently tested with colour discs--Ultra-marine (U),
+Red-royal (R), Emerald-green (G), Chrome-yellow (Y), White (W), and
+Black (B).
+
+It was found that--
+
+            165 (U) + 48 (R) + 147 (G) = 75 (W) + 285 (B).
+
+The black reflected 3·4 of white; hence the true equation is--
+
+  (i). 165 (U) + 48 (R) + 147 (G) = 84·7 (W) + 275 (B).
+
+ (ii). 120 (U) + 240 (Y) = 196 (W) + 164 (B) (corrected)--
+        With 260 (U) + 100 (Y) he sees blue.
+             250 (U) + 110 (Y) he sees light-blue.
+             242 (U) + 118 (Y) he sees no blue.
+
+This last in connection with (ii) shows that his blue perception is
+neutralised by the yellow, although the yellow to him was matched with
+white.
+
+I have already shown you a chart of the insensitive area of the retina
+found in a tobacco-blind case, and it may be advisable that you should
+see an example of the curtailment that exists, both for light and
+colour, in the field of vision of eyes in which there is progressive
+atrophy of the optic nerves. The large black area shows the part of the
+field that was encroached upon. The dark spots show small areas which
+are also insensitive. The field for colour shown by the inner shaded
+area is also encroached upon, and practically the patient was blind in
+a great part of his field. His form vision was also very bad, and his
+colour perception feeble. The three charts

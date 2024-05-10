@@ -1,0 +1,63 @@
+nant
+wave-length of 6300. The green is an emerald-green, and has a dominant
+wave-length of 5150. The blue is French ultra-marine, with a dominant
+wave-length of 4700. The card discs, of some 4 inches diameter, are
+coated with these colours as pastes, and by making an incision in them
+radially to the centre, as before described, and inter-locking them,
+the compound disc can be caused to show sectors of any angle that
+may be required. Outside these are the discs of black and white, the
+proportions of which can be altered at will.
+
+The light thrown on the rotating sectors being that from an electric
+arc light, normal vision requires 118° of red, 146° of green, and 96°
+of blue to match a grey made up of 75 parts of white and 285 parts of
+black. For the last two numbers a correction has been made to allow for
+the small amount of white light reflected from the black surface. This
+correction has also been made in the subsequent matches which will be
+described. Colour mixtures such as these are conveniently put in the
+form of equations, and that given will then be shown as follows--
+
+                  118 R + 146 G + 96 U = 75 W + 285 B.
+
+(Here R, G, U, W, and B are used to indicate Red, Green, Blue, White,
+and Black.)
+
+This match was exact also for all the colour blind, for the deficiency
+in one grey is also a deficiency in the other. With a red-blind,
+however, very different matches can be made, as the red pigment is
+a complex colour. There is in it, besides red, a certain amount of
+yellow, whilst in the green there is, besides green, a small amount of
+a red and a larger amount of yellow. The yellow will not only stimulate
+the green sensation, but also the red where it is present. Although
+in complete red-blindness the red sensation is totally absent, we may
+expect that a mixture of red and blue, as well as of green and blue,
+will enable a match to be made of the grey produced by the mixture of
+white and black.
+
+This was the case. We have the following proportions--
+
+                      295 R + 65 U = 45 W + 315 B.
+
+When the green disc is substituted for the red, the red-blind made the
+following mixture--
+
+                     229 G + 131 U = 120 W + 240 B.
+
+It is worth noticing that the amount of blue in the first mixture is
+about half that required for the second. This tells us that the amount
+of green sensation stimulated in the first case is much less than in
+the second. As red can be substituted for green, it should follow that
+green, when rendered darker, should match the red. To try this a red
+disc replaced the black disc, and a black disc replaced the blue. The
+following match was then made--
+
+                     131 G + 229 B = 340 R + 20 W.
+
+It seems impossible to believe that these mixtures, so dissimilar in
+colour, could ever form a satisfactory match. This last equation might
+have been derived from the two first, in which case it would have
+stood--
+
+                     137 G + 223 B = 342 R + 18 W.
+
+By a completely green-blind the following mixture

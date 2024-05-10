@@ -1,0 +1,51 @@
+
+so small that the illumination of the prism itself, by the white
+light falling on it, has to be taken into account, since it forms
+an appreciable portion of the patch of feeble colour. By placing a
+proper shade of blue or red glass in the front of the collimator
+slit this white light disappears or becomes negligible, and when the
+absorption of the coloured glass is known from measurement, we can
+get a very accurate measure of the extinction of these parts. Some
+people may propound the idea that the rotating sectors may in such
+kind of measurements give a false result. Now such a criticism is
+quite fair, and it is absolutely necessary that it should be answered.
+Well, to test the accuracy or the reverse of the assumption that such
+measures are correct, the following small piece of simple apparatus
+was devised. A and B (Fig. 29) are two mirrors placed at angles of 45°
+to the angle of incidence of the beam. The path the beam takes can be
+readily ascertained from the figure. This piece of apparatus was placed
+in position in front of the spectrum, and the reflected beams used
+to form the patches of colour. For convenience only a small pencil of
+light was allowed to issue from the prism, a diaphragm of some ½-inch
+in diameter being placed in front of it. This allows a spot of any
+desired colour to fall on the screen, the ground glass being removed.
+The slit through which the spectrum colours pass is moved along the
+spectrum, and a position is arrived at where the last glimmer of light
+disappears.
+
+[Illustration: FIG. 29.]
+
+The mirrors A and B may both be of plain glass blackened with smoke on
+one side, or one may be plain glass and one silvered, or they both may
+be silvered. This, with the power possessed of altering the aperture
+of the slit of collimator, puts us in possession of ample means of
+making our measures. We may also use the ground-glass arrangement and
+use different diaphragms, which puts a further power of variation in
+our hands. I may at once state that the resulting measurements fell on
+the curves, obtained by measurements made with the rotating sectors, a
+sufficient proof that the sectors may be used with confidence. There is
+still another method which avoids a resort to the sectors. A tapering
+wedge of black glass can be moved in front of the colour slit, and a
+different thickness of glass will be required to cause the extinction
+of each colour. Recently I have modified the extinction box, more
+particularly for the purpose of using it where the spectrum is to be
+formed of a feeble light, such as that of an incandescent lamp or a
+candle. If a really black wedge could be obtained, this would seem to
+be the best method, but no glass is really black. We have, therefore,
+to make a preliminary study of the wedge to ascertain accurately the
+absorption co-efficients for the different rays, a piece of work which
+requires a good deal of patience, but which, when done, is always at
+command.
+
+In Fig. 28 two branches of the curves are given at the blue end of the
+spectrum;

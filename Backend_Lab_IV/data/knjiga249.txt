@@ -1,0 +1,59 @@
+we were enabled to make
+him match accurately a red, a green, and a blue disc separately with
+mixtures of black and white.
+
+The following are the equations:--
+
+  360 red   = 315 black + 45 white.
+  360 green = 258 black + 102 white.
+  360 blue  = 305 black + 55 white.
+
+With these proportions he emphatically stated that all were good blues,
+and that the inner disc and outer ring were identical in brightness and
+in colour.
+
+It may be remarked that this is a case of congenital colour blindness,
+and that there is reason to believe that some of his ancestors were
+colour blind.
+
+Before using the discs an attempt was made to ascertain the luminosity
+of the spectrum as it appeared to him. His readings, however, were so
+erratic that nothing could be made out from these first observations,
+except to fix the place of maximum luminosity, the terms “pale” and
+“dirty” puzzling us as to their real meanings. After the experience
+with the discs we had a clue as to what he wished to express by pale or
+dirty blue, which only meant that the colour or white was too bright,
+and on making a second attempt he matched the luminosities of the two
+shadows as easily as did P. and Q., the other cases of monochromatic
+vision. The method adopted was to diminish the white light illuminating
+one shadow to the point at which he pronounced it a good blue, when
+a slight alteration in the intensity was always sufficient to secure
+to his eye equality of luminosity between it and the coloured shadow
+without his perceiving any alteration in the saturation.
+
+[Illustration: FIG. 34.
+
+B. C.’s Luminosity and Extinction Curves.]
+
+The curve of luminosity, Fig. 34, is a very remarkable one, being
+different in character to that of P. and Q., the maximum being well on
+the D side of E. A great falling off in the luminosity when compared
+with that measured by the normal eye will be noticed both in the
+blue and in the red. (For measures see page 225.) The evidence was
+therefore presumptive that B. C.’s colour sensation was neither red nor
+blue, but probably a green.
+
+The next test was made to throw light on this point. He made
+observations of the extinction of the different parts of the spectrum.
+His observations were very fair, except on the violet side of F, where
+they became slightly erratic, but by requesting him to use all parts
+of his retina to obtain the last glimpse of light, a very concordant
+curve resulted, as shown in Fig. 34. Some of his observations at this
+part were evidently made with the centre of the retina, for they gave
+readings which, when the “persistency” curve was calculated, and
+these observations treated as part of the extinction, agreed with the
+luminosity curve. We may, therefore, conclude that B. C. has a region
+in the retina in which there is an absorbing medium corresponding to
+the yellow spot of the normal eyed. This is diagrammatically shown in
+Fig. 34 by the difference in height of ordinates in the persistency
+(dotted) and the luminosity curves. On the red side of th

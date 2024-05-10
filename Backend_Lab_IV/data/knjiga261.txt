@@ -1,0 +1,62 @@
+ 15     |    4376    |   2·5   |    „      „      „       |
+    10     |    4248    |   1·5   |    „      „      „       |  Violet.
+     0     |    4010    |   0·2   |    „      „      „       |
+  ---------+------------+---------+--------------------------+----------
+
+Her curve of luminosity in the spectrum was next taken, and her
+readings are given in the table above. The curve is shown in Fig. 40.
+The shaded band beneath it applies to her curve. Miss W.’s luminosity
+curve is also repeated in the same figure for the sake of comparison.
+
+An endeavour was made to form a series of colour equations with her
+eyesight by placing three slits in different parts of the spectrum, but
+without success, although a match with white was made in two positions.
+One slit was in the orange-red (52 of the scale), another at E, and the
+third at G; mixtures were made which she said matched the white, but
+they were so erratic that it was useless to measure the apertures. When
+the slit in the violet was covered up, a white patch being alongside as
+a comparison, she called the mixture of red and green “brownish-green”;
+when the slit in the red was covered she called the mixed light of
+green and violet “green”; and when the green slit was covered up she
+called the purple colour a “different kind of brown.”
+
+When the first slit was moved into the red near the lithium line she
+called the colours “green,” whenever the green slit was uncovered. A
+piece of red glass was placed in the white reflected beam, forming
+a red patch, and a patch of the blue at scale No. 30·5 (λ 4862) was
+placed alongside, and she matched them in luminosity and in colour.
+(The dominant colour of the signal glass in question was λ 6220.) She
+finally was tested with colour discs.
+
+To make white she required
+
+                 130 G + 113 R + 117 U = 72 W + 218 B.
+
+She was then tried with the blue and green discs alone and made a
+match--
+
+                     258 U + 102 G = 65 W + 295 B.
+
+An attempt was made to match with the green and red discs alone, but
+this failed.
+
+She matched the red disc alone with black and white, and also the blue
+disc alone--
+
+                   360 R = 56 W + 304 B (corrected),
+                   360 U = 60 W + 300 B (corrected).
+
+With any proportion of R and U mixed together she matched a grey of
+approximately the same intensity as above, as it might be supposed she
+would from the last two equations.
+
+Taking the intensity curve of the light reflected from the red disc, it
+was found to contain a great deal of the part of the spectrum which she
+called brownish, viz., from 33·5 to 48 on the scale, whereas the blue
+reflected a trifle of this portion of the spectrum, as did also the
+green; and this may account for her making a match to grey of U and G,
+and not of R and G, but it is hard to see why she matched U alone and
+also R with the grey.
+
+Reviewing the case, it seems that any perception of colour is very
+small, and that the sensations are green and m

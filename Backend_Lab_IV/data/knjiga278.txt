@@ -1,0 +1,50 @@
+ng a maximum between D and E. From E to one-third beyond F
+towards G the colour is mixed, varying from “yellow” to “blue,” and
+becoming neutral or “white” at a point near F. In this part of the
+spectrum the total intensity, as given by the dotted line, is decidedly
+less than on either side of it, and near the line F, the retina close
+to the “yellow spot” is less sensible to light than the parts further
+from the axis of the eye. This peculiarity of the light near F is even
+more marked in the colour blind than in the ordinary eye. Beyond F the
+“blue” element comes to a maximum between F and G, and then diminishes
+towards H, the spectrum from this maximum to the end being pure “blue.”
+
+The results given above were all obtained with the light of white
+paper, placed in clear sunshine. I have obtained similar results when
+the sun was hidden, by using the light of uniformly illuminated clouds,
+but I do not consider these observations sufficiently free from
+disturbing circumstances to be employed in calculation. It is easy,
+however, by means of such observations, to verify the most remarkable
+phenomena of colour blindness, as, for instance, that the colours
+from red to green appear to differ only in brightness, and that the
+brightness may be made identical by changing the width of the slit;
+that the colour near F is a neutral tint, and that the eye in viewing
+it sees a dark spot in the direction of the axis of vision; that the
+colours beyond are all blue of different intensities, and that any
+“blue” may be combined with any “yellow” in such proportions as to
+form “white.” These results I have verified by the observations of
+another colour-blind gentleman, who did not obtain sunlight for his
+observations; and as I have now the means of carrying the requisite
+apparatus easily, I hope to meet with other colour-blind observers, and
+to obtain their observations under more favourable circumstances.
+
+
+MEASUREMENTS OF COLOUR FIELDS.
+
+Some experiments in the measurement of the colour fields in the
+horizontal direction with the pure spectrum colours will help to show
+what importance is to be attached to the luminosity of the colour and
+the size of the spot of light with which the observations are made. A
+yellow and a blue of the spectrum were taken of such hues that when
+mixed they formed a patch of white light similar to the electric light.
+Their luminosities were measured, and the yellow found to be 1·6 of the
+light of an amyl-acetate lamp or 1·28 standard candles; the blue was
+1/24 of this luminosity. The fields for these two colours were measured
+by automatically throwing spots of each colour separately on a white
+card which moved round a centre over which the eye was placed. The
+light was subsequently diminished to ½, ¼, and ⅛ of the above values,
+and readings again made. The following results were obtained with a
+spot of ·7 inch diameter:--
+
+                    Yellow.                       Blue.
+  Light.  --------------------------   ---------

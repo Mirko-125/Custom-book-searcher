@@ -1,0 +1,75 @@
+ W.
+  22·0 (32) + 12·1 (44) + 30·6 (68) = W.
+   6·4 (24) + 25·2 (36) + 31·3 (68) = W.
+  15·3 (24) + 26·0 (40) + 30·7 (68) = W.
+  19·8 (24) + 35·0 (46) + 30·2 (68) = W.
+  21·2 (24) + 41·4 (48) + 27·0 (68) = W.
+  22·0 (24) + 62·0 (52) + 13·0 (68) = W.
+  21·7 (24) + 10·4 (44) + 61·7 (56) = W.
+  20·5 (24) + 23·7 (44) + 40·5 (60) = W.
+  19·7 (24) + 30·3 (44) + 33·7 (64) = W.
+  18·0 (24) + 31·2 (44) + 32·3 (72) = W.
+  17·5 (24) + 30·7 (44) + 44·0 (76) = W.
+  18·3 (24) + 33·2 (44) + 63·7 (80) = W.
+
+
+X.--REDUCTION OF THE OBSERVATIONS.
+
+By eliminating W from the equations above by means of the standard
+equation, we obtain equations involving each of the fourteen selected
+colours of the spectrum, along with the three standard colours; and by
+transposing the selected colour to one side of the equation, we obtain
+its value in terms of the three standards. If any of the terms of these
+equations are negative, the equation has no physical interpretation as
+it stands; but by transposing the negative term to the other side it
+becomes positive, and then the equation may be verified.
+
+The following table contains the values of the fourteen selected tints
+in terms of the standards. To avoid repetition, the symbols of the
+standard colours are placed at the head of each column:--
+
+
+TABLE VI.
+
+  Observer (K.)  (24)  (44)    (68)
+  44·3 (20) =   18·6   + 0·4   +  2·8
+  16·1 (28) =   18·6   + 5·8   -  0·1
+  22·0 (32) =   18·6  + 19·3   -  0·1
+  25·2 (36) =   12·2  + 31·4   -  0·8
+  26·0 (40) =    3·3  + 31·4   -  0·2
+  35·0 (46) =  - 1·2  + 31·4   +  0·3
+  41·4 (48) =  - 2·6  + 31·4   +  3·5
+  62·0 (52) =  - 3·4  + 31·4   + 17·5
+  61·7 (56) =  - 3·1  + 21·0   + 30·5
+  40·5 (60) =  - 1·9   + 7·7   + 30·5
+  33·7 (64) =  - 1·1   + 1·1   + 30·5
+  32·3 (72) =  + 0·6   + 0·2   + 30·5
+  44·0 (76) =  + 1·1   + 0·7   + 30·5
+  63·7 (80) =  + 0·3   - 1·8   + 30·5
+
+Mr. James Simpson, formerly student of Natural Philosophy in my class,
+has furnished me with thirty-three observations taken in good sunlight.
+Ten of these were between the two standard colours, and give the
+following result:--
+
+                       33·7 (88) + 33·1 (68) = W.
+
+The mean errors of these observations were as follows:--
+
+  Error of (88) = 2·5; of (68) = 2·3; of (88) + (68)
+                = 4·8; of (88) - (68) = 1·3.
+
+The fact that the mean error of the sum was so much greater than the
+mean error of the difference, indicates that in this case, as in all
+others that I have examined, observations of equality of tint can be
+depended on much more than observations of equality of illumination or
+brightness.
+
+From six observations of my own, made at the same time, I have deduced
+the “trichromic” equation--
+
+                   22·6 (104) + 26 (88) + 37·4 (68) = W      (2)
+
+If we suppose that the light which reached the organ of vision was the
+same in both cases, we may combine these equations by subtraction, and
+so 

@@ -1,0 +1,51 @@
+stopped by the shutters.
+Suppose that the portion falling on X belongs to the red part of the
+spectrum; then, of the white light entering at E, only the red will
+come through the slit X. If we were to admit red light at X, it would
+be refracted to E, by the principle in optics that the course of the
+ray may be reversed.
+
+“If, instead of red light, we were to admit white light at X, still
+only red light would come to E; for all other light would be either
+more or less refracted, and would not reach the slit at E. Applying the
+eye at the slit E, we should see the prism P uniformly illuminated with
+red light, of the kind corresponding to the part of the spectrum which
+falls on the slit X, when white light is admitted at E.
+
+“Let the slit Y correspond to another portion of the spectrum, say the
+green; then if white light is admitted at Y, the prism, as seen by
+an eye at E, will be uniformly illuminated with green light; and if
+white light be admitted at X and Y simultaneously, the colour seen at
+E will be a compound of red and green, the proportions depending on
+the breadth of the slits and the intensity of the light which enters
+them. The third slit Z, enables us to combine any three kinds of light
+in any given proportions, so that an eye at E shall see the face of
+the prism at P, uniformly illuminated with the colour resulting from
+the combination of the three. The position of these three rays in
+the spectrum is found by admitting the light at E, and comparing the
+position of the slits with the position of the principal fixed lines;
+and the breadth of the slits is determined by means of the wedges.
+
+“At the same time, white light is admitted through B C to the mirror
+of black glass at M, whence it is reflected to E, past the edge of
+the prism at P, so that the eye at E sees through the lens a field
+consisting of two portions, separated by the edge of the prism; that
+on the left hand being compounded of three colours of the spectrum
+refracted by the prism, while that on the right hand is white light
+reflected from the mirror. By adjusting the slits properly, these two
+portions of the field may be made equal, both in colour and brightness,
+so that the edge of the prism becomes almost invisible.
+
+“In making experiments, the instrument was placed on a table in a room
+moderately lighted, with the end A B turned towards a large board
+covered with white paper, and placed in the open air, so as to be
+uniformly illuminated by the sun. In this way the three slits and the
+mirror M were all illuminated with white light of the same intensity,
+and all were affected in the same ratio by any change of illumination;
+so that if the two halves of the field were rendered equal when the sun
+was under a cloud, they were found nearly correct when the sun again
+appeared. No experiments, however, were considered good unless the sun
+remained uniformly bright during the whole series of experiments.
+
+“After each set of experiments light was admitted at E, and the
+position of the fixed lines D

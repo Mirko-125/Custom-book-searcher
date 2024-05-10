@@ -1,0 +1,74 @@
+rroundings will begin to
+be seen, and after several minutes what before was blackness comes to
+be invested with form and detail. So it is with the extinction of light
+in the apparatus described. Observations carried on before the full
+sensibility of the eye is attained are of no value. A recorded set of
+observations will show this. A light of a certain character was thrown
+on the extinction box, to be extinguished, and the observer entered
+the darkened room from the full glare of daylight. The eye was placed
+at the eye end and kept there, and the extinctions were made one after
+the other till they became very fairly constant. The following is the
+result:--
+
+    Times of Observation.   Readings.
+  At the commencement          1·0
+  After         38 sec.        3·2
+  After         53 sec.        4·9
+  After  1 min. 11 sec.        6·9
+  After  1 min. 44 sec.       10·5
+  After  2 min. 43 sec.       17·0
+  After  3 min. 44 sec.       27·5
+  After  4 min. 52 sec.       43·0
+  After  5 min. 59 sec.       63·0
+  After  6 min. 41 sec.       78·0
+  After  7 min. 28 sec.       89·0
+  After  8 min. 32 sec.       96·0
+  After 10 min. 46 sec.      103·0
+  After 12 min.              103·0
+
+  (For convenience the first reading is unity; the other numbers are
+                the _inverse_ of the extinction value.)
+
+The eye apparently, under the conditions in which these observations
+were made, was at least 100 times more sensitive to very faint light
+after twelve minutes than it was at the beginning, and that then
+concordant readings could be made. It will now be quite understood that
+before any serious measures can be made this interval must elapse,
+and also that the light, finding its way to the end of the box to
+illuminate the spot, should never be strong, otherwise the eye might
+lose its sensitiveness.
+
+
+
+
+CHAPTER X.
+
+
+Before considering the subject of the extinction of light by other
+types of colour vision, attention must be called to what has already
+been brought before you. The various colours of the spectrum have to
+be reduced to the following amounts before they suffer extinction, the
+orange light at D being of the value of one candle. (See appendix, page
+217, for complete tables.)
+
+                    Reduction in
+                     Millionths.                 Remarks.
+
+  B              10,000 or 1/100         approximately pure red
+                                           sensation
+
+  C               1,100 or 1/909         rather more scarlet
+
+  D                  50 or 1/20000       orange light
+
+  E                 6·5 or 1/154000      a green chosen by Maxwell
+                                           as a standard colour
+
+  F                15·0 or 1/67000       beginning of the blue
+
+  Blue Lithium     85·0 or 1/11700       a good sample of blue
+
+  G               300·0 or 1/3300        approximately pure sensation
+                                           of violet.
+
+If we make these same colours all of the luminosity of one a

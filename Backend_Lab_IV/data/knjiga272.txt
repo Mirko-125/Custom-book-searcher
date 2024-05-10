@@ -1,0 +1,48 @@
+f colour measurement, it appears to be deficient in several respects.
+To take one point. We have seen that when blue and yellow are mixed
+together to make white the sum of the luminosities of the two colours
+separately is equal to the luminosity of the white produced. According
+to the Hering theory, the yellow colour contains a certain amount
+of the white-black sensation besides the yellow sensation, as does
+also the blue colour besides the blue sensation. The theory tells us
+that when white is produced by the mixture, the blue sensation undoes
+the work that the yellow sensation has done, and the white sensation
+is alone left behind. If this be the case, the sum of the separate
+luminosities cannot be the same as that of the white produced, but
+should be greater. The theory also has to be strained sometimes to make
+it fit in with other observed facts. Take, for instance, the case of
+persons who are called red-blind and green-blind on the Young theory.
+We are told by the Hering theory that both are red-green-blind--that
+is, blind to both green and red, and only see blue and yellow--and that
+the only difference between them is that the former has his spectrum
+slightly shortened at the red end, the maxima of the yellow-blue
+sensations being shifted a little further towards the violet end of the
+spectrum. The natural question to ask is: Why this shift occurs? Surely
+it is more rational to adopt a theory which does not require such a
+supposition? If the sensitive matter acted upon by the yellow-blue
+rays be always of the same chemical composition, the shift cannot
+occur. It might, perhaps, be allowed that one shift was practicable,
+but, unfortunately, the shifts must become numerous when the cases
+of partial colour blindness are to be accounted for, and this would
+necessitate a constantly varying chemical composition of this matter,
+and of that acted upon by the red-green rays.
+
+Again, in the extinction of the spectrum, the red and the green
+sensations in quantities to neutralize one another should be
+extinguished nearly together, even allowing for what physiologists
+tell us is the case, that the breaking down, or dissimulation, of cell
+tissue continues longer than its building up, but we find a large
+difference between the two. As already indicated, the luminosity curve
+of the feeble spectrum favours the theory of Hering being that here
+we only have the white-black sensation, and naturally the persistency
+curves must be scored in its favour. But the cases of B. C. and M.,
+it seems to me, cannot be explained by the theory without any undue
+straining or assumptions. If we try and fit the cases of colour
+blindness due to tobacco scotoma to the theory, we find that in many
+cases yellow is not recognised, though blue is invariably. If the blue
+be active, the yellow should also be so.
+
+And here I may remark that it has been assumed that the two classes
+of colour blindness are due to different causes. A question to ask
+ourselves is whether all colour blindness may not have been caused
+or

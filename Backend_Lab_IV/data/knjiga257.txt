@@ -1,0 +1,54 @@
+ of the
+colour blindness. G. suffered from a very well-marked tobacco scotoma,
+occupying a considerable area. His curve of luminosity of the spectrum
+is shown in Fig. 37. The horizontal band beneath will show the colours
+which the spectrum colours appeared to match.
+
+
+TABLE OF LUMINOSITY FOR G. _See_ page 153.
+
+  -------------------------------------------------+
+  Scale No.                                        |
+     +---------------------------------------------+
+     | Wave-length.                                |
+     |      +--------------------------------------+
+     |      | Reading.                             |
+     |      |    +---------------------------------+----------------
+     |      |    |                                 |    Colour of
+     |      |    |       Colours named by G.       | spectrum to the
+     |      |    |                                 |   normal eye.
+  ---+ -----+----+---------------------------------+----------------
+  57 | 6423 |  0 |                                 | Scarlet.
+  55 | 6242 |  3 | No colour                       |
+  53 | 6074 | 11 | Colour “yellow,” white “blue”   | Red-orange.
+  51 | 5919 | 34 |   „        „       „     „      | Orange-yellow.
+  50 | 5850 | 60 |   „        „       „     „      |
+  49 | 5783 | 64 | Colour “gold,” white “sky-blue” | Yellow.
+  45 | 5538 | 59 |                                 |
+  40 | 5270 | 40 | Both white                      | Green.
+  35 | 5042 | 18 |     „                           |
+  30 | 4848 | 10 |     „                           |
+  29 | 4807 |  6 | Colour “very pale blue,”        | Blue.
+     |      |    |     white as white              |
+  26 | 4707 |  4 | Colour “blue,” white “white”    |
+  20 | 4518 |  3 |   „       „      „      „       |
+  10 | 4248 |  2 |   „       „      „      „       | Violet.
+  ---+------+----+---------------------------------+----------------
+
+G. was tested for light sense by the extinction method, and it appears
+that the final sensitiveness to light at the central part of the eye
+was nearly 12 times less than a person possessing normal sense. I may
+mention that I have examined one, if not two cases in which the patient
+was not only tobacco blind, but also congenitally colour blind. Though
+interesting for record, they need not be given in full here.
+
+With these specimens of examination I must leave the cases of tobacco
+blindness. Although very important, they by no means constitute the
+sole cases of colour deficiency due to disease. I will give as an
+instance a case of loss of colour sensation due to progressive atrophy
+of both eyes which was examined, with Mr. Nettleship’s aid. When
+tested with spectrum colours--a patch of white light being placed in
+juxtaposition with the colour--it was found that W. S. was absolutely
+blind to colour from 26·75 (λ 4733) on the scale of the spectrum to the
+termination of the red of his spectrum, which was close to 63 on the
+scale (λ 7082). Abo

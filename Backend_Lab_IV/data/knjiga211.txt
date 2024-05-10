@@ -1,0 +1,53 @@
+nge. The relative brightness of the two colours mixed together can
+be shown by removing the lens which recombines the spectrum to form the
+patch of light. Each colour issues through its slit and forms its own
+patch on a white screen which, for the purpose, we make rather larger
+than usual. The two patches overlap in the middle (Fig. 8), and the
+pure colours are seen one on each side of the mixed colours.
+
+[Illustration: FIG. 8.]
+
+Now, placing one slit in the yellow and another in the blue of the
+spectrum, we find that whatever width of slit we take, no green is
+produced, but that, in fact, a yellowish or a bluish white results,
+and that when the two slits are properly adjusted, a pure white is
+produced. Evidently since none of the intermediate spectrum colours
+between the blue and the yellow can be made by their mixture, certainly
+green cannot. Hence, with pure colours a green and not a yellow is one
+of the primaries.
+
+Further investigation on these lines has placed the violet of the
+spectrum as a primary rather than the blue, but this is still a matter
+of debate. Suffice it to say that a red and a green in the spectrum are
+really two of the primary colours, and most probably the violet the
+third. Experiment shows that there is no other primary colour in the
+strict sense of the word. We thus arrive at the fact that, except the
+primary colours themselves, every colour in nature may be made by a
+mixture of two or three of these primaries.
+
+Just a word of explanation as to why, with pigments, the primary
+colours appear to be red, yellow, and blue, and not red, green, and
+blue. The colour of a pigment, it must be recollected, is a complex
+one. If we analyse a yellow--a yellow glass will be just as good an
+example as anything else--we find it is made up of green, yellow,
+orange, and red. A blue is made up of blue and green. If a yellow is
+placed behind a blue glass, and we look at a white surface through
+them, the only light that can get through the glass is the green. If
+the light, coming through each glass _separately_, falls on the same
+spot on a white surface, it will be either colourless or bluish white,
+or yellowish white, whichever colour preponderates. As the light
+reflected from mixed pigments is made up principally by the light
+coming through the different particles, first coming through one and
+then through another, and only partially by mixed lights, it will be
+gathered why the primary colour, when deduced from experiments with
+pigments, was yellow, and not green.
+
+With the spectrum colours there is this fact to remember, that
+though all intermediate colours between the pairs of primaries can be
+formed by their mixture, yet in some cases the resulting colours are
+_slightly_ diluted with white, and that they thus appear less saturated
+than the spectrum colours themselves. The reason for this we shall be
+able to account for when we consider the colour sensations themselves.
+
+When making matches to simple or other colours by the method of
+mixtures, we have to be caref

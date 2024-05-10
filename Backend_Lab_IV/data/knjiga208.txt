@@ -1,0 +1,52 @@
+       4603
+  G, violet             4307
+  H, extreme violet     3968
+
+The rays in the different parts of the spectrum being due to these
+simple vibratory motions, cannot be decomposed further. And it makes
+no matter whether we _see_ them as different colours or not, they will
+always issue at the same angle from the same prism (if the prism be
+used to form the spectrum), when it is turned to the same angle to the
+incident light. Milestones are useful along a road to tell us where
+we are in reference to some central place, and these black lines in
+the spectrum serve the same end. But they have the advantage over the
+milestone, for whilst the last will tell us how far we are from, say,
+York or London, the former tell us our distance from a zero point.
+We thus have a scale of light of different wave-lengths laid down for
+us, which we can apply to the study of the sensations stimulated in
+the eye, and so have the means of instituting a comparison between
+the colour vision of different eyes. A mixed or composite colour is
+in a different category, however, to the simple colour, as you will
+see directly. It is one which may be formed by any number of rays of
+different wave-lengths falling on the eye. What these rays are we can
+only tell by analysing the light and referring them to the spectrum.
+
+The instrument before you is one which I have used before in this
+theatre; but as the major part of my experiments have been carried
+out with it, in case those who are present may not be acquainted with
+it, it will be necessary to describe it very briefly. The general
+arrangement of the apparatus is given in the accompanying diagram, Fig.
+4.
+
+[Illustration: FIG. 4.]
+
+R R are rays coming from the source of light, be it sun light or the
+electric light, and an image of the one or the other is formed by a
+lens L₁ on the slit S₁ of the collimator C. The parallel rays produced
+by the lens L₂ are partially refracted and partially reflected. The
+former pass through the prisms P₁, P₂, and are focussed to form a
+spectrum at D by a lens L₃. D is a movable screen in which is an
+aperture S₂, the width of which can be varied as desired. The rays are
+again collected by a lens L₄, and form a white image of the surface
+of the last prism on the screen E. If the light passing through S₂ is
+alone used, the image at E is formed of practically monochromatic
+light. Part of the rays falling on P₁ are, as just said, reflected, but
+as it and the refracted part are portions of the light passing through
+the slit S₁, they both must vary proportionally. If then we use the
+reflected portion as a comparison light to the spectrum colours, the
+relative intensities of the two, though they may vary intrinsically,
+will remain the same. The rays reflected from P₁ fall on G, a silver
+or glass mirror, and, by means of another lens L₅, also can be caused
+to form a white patch on the screen E, alongside the patch of colour.
+At M, or anywhere in the path of the beams, an electro-motor driving a
+sector wit

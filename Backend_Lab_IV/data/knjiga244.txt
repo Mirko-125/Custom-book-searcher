@@ -1,0 +1,50 @@
+ry, but exactly the reverse. _Primâ facie_,
+then, taking the Young theory as correct, we may suppose that these
+horizontal parts are due to the extinction of one sensation. Let us
+treat it as such, and go back to the original extinction curve shown
+in the continuous lines. The parts of the curve which lie over the
+fairly horizontal dotted line, at all events, should be the extinction
+curve of the same sensation, but more or less stimulated or excited.
+As before explained, if we have double the stimulation at one part of
+the spectrum to that we have at another, the reduction of the greater
+luminosity to give extinction will be double that of the lesser. If,
+then, we take the _reciprocals of the extinction_, it ought to give
+us a curve which is of the form of some colour sensation; and when we
+arrive at the maximum, we may for convenience make that ordinate 100,
+and reduce the other ordinates proportionally. This has been done in
+Fig. 30 in the curves C and D. For the sake of a name my colleague and
+myself have named such curves “persistency curves.” Perhaps some other
+name might be more fitting; but still a poor name is better than none
+at all.
+
+When the persistency curve was scrutinized to see what might be
+taken as its full signification, I must confess that the result
+astonished us somewhat, though we ought not to have been surprised.
+The persistency curve C, when applied (in a Euclidean sense) to the
+curve of luminosity recorded for the men who had monochromatic vision,
+almost exactly coincided with it. In other words, by far the largest
+part of the extinction was due to the extinction of the sensation
+which in the monochromatic vision was alone excited. If this be not
+the case, there is something in colour vision which no theory which
+I am acquainted with can account for. Then, again, the persistency
+curve agrees with the curve of luminosity when the intensity of the
+spectrum is very feeble, which is another coincidence of a remarkable
+character which some theory should explain. [Fig. 30 gives, besides
+the persistency curves, the luminosity curves of the normal eye, of
+monochromatic vision, and of the violet-blind; and an exaggerated curve
+of the difference between the normal luminosity curve and that of the
+violet-blind, and others which I think will be found useful for general
+reference.]
+
+What sensation is it that is last extinguished, and which is possessed
+by a certain class of colour vision? In the Young theory it can only
+be the violet sensation. It is certainly not the green, and much less
+the red. It does not correspond, however, very well with the violet
+sensation shown in Fig. 16, but more with one which should be in the
+blue.
+
+In making the extinctions of light, it is quite necessary that certain
+precautions should be taken to avoid error. All my audience know that
+when going from bright daylight into a cellar, in which only a glimmer
+of light is admitted, but little can be seen at first, but that, as the
+eye “gets accustomed” to the darkness, the su

@@ -1,0 +1,51 @@
+        |     |stripe              |
+  57   |  6423 |   32     |    10    | 0·31|Calls red yellowish,|Scarlet.
+       |       |          |          |     |and white bluish    |
+  55   |  6242 |   65     |    38    | 0·65|  „      „          |
+  53   |  6074 |   96     |    86    | 0·89|Both one colour     |Red-orange.
+  51   |  5920 |   99     |    90    | 0·91|  „      „          |Orange-yellow.
+  47   |  5660 |   92     |    83    | 0·90|Calls green a little|Greenish-yellow.
+       |       |          |          |     |blue; white he      |
+       |       |          |          |     |sees as white       |
+  43   |  5430 |   69     |   625    | 0·90|  „      „          |Yellowish-green.
+  40   |  5270 |   50     |    46    | 0·92|  „      „          |Green.
+  32   |  4910 |    8·5   |     9    | 1·06| Sees blue as blue, |Greenish-blue.
+       |       |          |          |     |and white yellowish |
+  31   |  4960 |    7     |     8    | 1·14|  „      „          |Blue.
+  26   |  4680 |    3     |     3    | 1·00|  „      „          |Blue.
+  -----+-------+----------+----------+-----+--------------------+----------------
+
+His readings of luminosity were made without any hesitation, and were
+concordant for each observation, which is not to be wondered at, as the
+matches, except at the blue end, were practically matches of different
+mixtures of black and white.
+
+It appears that the white which X. sees as white is the same as the
+orange sodium light, and that the red he sees is yellowish. The mixture
+of this yellowish-white with the blue makes white. He sees a little
+blue in the spectrum colour at λ 5720, so it must be taken that at
+that point of the spectrum he begins to see colour--a point which is
+considerably lower than that given by his preliminary examination
+of the spectrum colour, and due, no doubt, to the fact that in this
+experiment he had the white light of the positive pole of the electric
+light to compare with it. It seems probable that what X. called
+yellowish was really a sensation of white mixed with a very small
+quantity of red sensation, for he saw no yellow in the orange, in
+which that colour would be most easily distinguished on account of its
+luminosity. Red light, when strongly diluted with white light, to the
+normal eye is often called orange.
+
+As, practically speaking, the colour vision of X. is confined to blue
+and white, it is of interest to note the difference in luminosity at
+the different parts of the spectrum that is registered by him and by
+P., who had blue (violet) monochromatic vision. To facilitate the
+comparison, the luminosity curve of the latter is shown in the diagram.
+
+[Illustration: FIG. 37.
+
+The thin line curve is the normal curve.]
+
+Perhaps another case of a patient suffering from tobacco blindness may
+be quoted, as it will show the differences that exist in recognising
+the colours of the spectrum, and that the shorter the visible limit of
+the spectrum at the red end, the more pronounced is the extent
